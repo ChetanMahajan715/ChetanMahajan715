@@ -89,31 +89,9 @@ class ChetanMahajan:
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="62%">
-
-### 1️⃣ [🚀 Leapvoy](https://github.com/ChetanMahajan715/leapvoy)
-**A personal AI job-outreach agent.** It reads Telegram job channels, checks every post against my resume with
-rules, embeddings and an LLM fit score, writes a **grounded** email to HR (every claim checked against the resume),
-and sends it on schedule with strict safety limits. Controlled from one app on **Android and the web**.
-
-- 🧠 LangGraph pipeline · LiteLLM router with free-tier fallback (Groq → Mistral → Gemini)
-- 📱 Expo app: streaming chat agent, push notifications, offline mode
-- 🔐 2-step sign-in, AES-GCM encrypted secrets, per-user data isolation
-- ☁️ Self-healing Docker deployment on Oracle Cloud, **₹0 / month**, **430+ tests**
-
-`FastAPI` `LangGraph` `Postgres + pgvector` `Telethon` `Expo` `TypeScript` `Docker`
-
-</td>
-<td width="38%" align="center">
-<a href="https://github.com/ChetanMahajan715/leapvoy"><img src="https://raw.githubusercontent.com/ChetanMahajan715/leapvoy/main/docs/screenshots/jobs-dark-phone.png" width="210" alt="Leapvoy app"/></a>
-</td>
-</tr>
-</table>
-
 | # | Project | What it does | Built with |
 |:-:|---|---|---|
+| 1️⃣ | **[🚀 Leapvoy](https://github.com/ChetanMahajan715/leapvoy)**<br/><sub>AI agent · Full stack</sub> | Personal AI job-outreach agent: reads Telegram job posts, scores the fit against my resume, writes **grounded** HR emails and sends them safely. Android + web app, **430+ tests**, runs 24/7 on Oracle Cloud for **₹0** | FastAPI · LangGraph · pgvector · Expo · Docker |
 | 2️⃣ | **[🎫 PolicyPilot AI](https://github.com/ChetanMahajan715/policypilot-ai)**<br/><sub>LLM + RAG</sub> | Support-ticket decision assistant that turns customer complaints into **policy-backed decisions** | FastAPI · Streamlit · Gemini · RAG |
 | 3️⃣ | **[🏦 BankAssist](https://github.com/ChetanMahajan715/bankassist-chatbot)**<br/><sub>LLM + RAG</sub> | Banking support chatbot over **853 indexed chunks**: streamed answers with sources, session memory, Redis cache, deployed on AWS EC2 | FastAPI · LangChain · FAISS · Groq · Streamlit |
 | 4️⃣ | **[⚖️ LexIQ](https://github.com/ChetanMahajan715/lexiq-ai-legal-assistant)**<br/><sub>LegalTech RAG</sub> | Legal research assistant for **Indian law** (Constitution, IPC, CrPC) with structured, citation-first answers | LangChain · ChromaDB · MiniLM · Groq · Streamlit |
