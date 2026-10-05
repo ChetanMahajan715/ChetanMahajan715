@@ -86,14 +86,14 @@ class ChetanMahajan:
 
 ---
 
-<!-- ===================== FEATURED ===================== -->
-## ⭐ Featured project
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="62%">
 
-### [🚀 Leapvoy](https://github.com/ChetanMahajan715/leapvoy)
+### 1️⃣ [🚀 Leapvoy](https://github.com/ChetanMahajan715/leapvoy)
 **A personal AI job-outreach agent.** It reads Telegram job channels, checks every post against my resume with
 rules, embeddings and an LLM fit score, writes a **grounded** email to HR (every claim checked against the resume),
 and sends it on schedule with strict safety limits. Controlled from one app on **Android and the web**.
@@ -112,20 +112,13 @@ and sends it on schedule with strict safety limits. Controlled from one app on *
 </tr>
 </table>
 
----
-
-<!-- ===================== PROJECTS ===================== -->
-## 🧪 Projects
-
-| | Project | What it does | Built with |
+| # | Project | What it does | Built with |
 |:-:|---|---|---|
-| 🧩 | **[Stencil](https://github.com/ChetanMahajan715/stencil-docgen)**<br/><sub>Multi-agent AI</sub> | Nine LangGraph agents write proposals and slide decks **in your own template's style**, with live web research, RAG, citations and versioned conversational edits | LangGraph · Gemini · Pinecone · FastAPI |
-| 🎫 | **[PolicyPilot AI](https://github.com/ChetanMahajan715/policypilot-ai)**<br/><sub>LLM + RAG</sub> | Turns customer complaints into **policy-backed support decisions** | FastAPI · Streamlit · Gemini · RAG |
-| 🏦 | **[BankAssist](https://github.com/ChetanMahajan715/bankassist-chatbot)**<br/><sub>LLM + RAG</sub> | Banking support chatbot over **853 indexed chunks**: streamed answers with sources, session memory, Redis cache, deployed on AWS EC2 | FastAPI · LangChain · FAISS · Groq · Streamlit |
-| ⚖️ | **[LexIQ](https://github.com/ChetanMahajan715/lexiq-ai-legal-assistant)**<br/><sub>LegalTech RAG</sub> | Legal research assistant for **Indian law** (Constitution, IPC, CrPC) with structured, citation-first answers | LangChain · ChromaDB · MiniLM · Groq · Streamlit |
-| 🩻 | **[Chest X-Ray Classifier](https://github.com/ChetanMahajan715/chest-xray-disease-classification)**<br/><sub>Deep learning</sub> | DenseNet121 for **5 lung conditions**, **97.8% val accuracy**, with Grad-CAM heatmaps that show where it looked | PyTorch · DenseNet121 · Grad-CAM · Streamlit |
-| 🛵 | **[Delivery ETA Predictor](https://github.com/ChetanMahajan715/delivery-eta-predictor)**<br/><sub>Machine learning</sub> | Predicts grocery delivery time from **50k deliveries**: **1.70 min MAE**, R² 0.76, served as a web app + REST API | scikit-learn · Random Forest · Flask |
-| 📝 | **[Text Summarizer](https://github.com/ChetanMahajan715/nlp-text-summarization-tool)**<br/><sub>NLP</sub> | Compares **extractive (NLTK)** and **abstractive (BART)** summarization side by side | NLTK · Hugging Face · Flask |
+| 2️⃣ | **[🎫 PolicyPilot AI](https://github.com/ChetanMahajan715/policypilot-ai)**<br/><sub>LLM + RAG</sub> | Support-ticket decision assistant that turns customer complaints into **policy-backed decisions** | FastAPI · Streamlit · Gemini · RAG |
+| 3️⃣ | **[🏦 BankAssist](https://github.com/ChetanMahajan715/bankassist-chatbot)**<br/><sub>LLM + RAG</sub> | Banking support chatbot over **853 indexed chunks**: streamed answers with sources, session memory, Redis cache, deployed on AWS EC2 | FastAPI · LangChain · FAISS · Groq · Streamlit |
+| 4️⃣ | **[⚖️ LexIQ](https://github.com/ChetanMahajan715/lexiq-ai-legal-assistant)**<br/><sub>LegalTech RAG</sub> | Legal research assistant for **Indian law** (Constitution, IPC, CrPC) with structured, citation-first answers | LangChain · ChromaDB · MiniLM · Groq · Streamlit |
+
+<sub>More projects: <a href="https://github.com/ChetanMahajan715?tab=repositories">all repositories</a></sub>
 
 ---
 
